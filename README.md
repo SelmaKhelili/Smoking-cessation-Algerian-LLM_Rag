@@ -2,7 +2,7 @@
 
 <img src="docs/logo.png" alt="SAI Logo" width="150"/>
 
-# 🚭 SAI - Smoking Cessation Support App
+# 🚭 SAI - Smoking Addiction Initiative
 
 ### AI-Powered Mental Health & Smoking Cessation Platform
 *Leveraging NLP, RAG, and Fine-tuned Language Models for Arabic-speaking users*
